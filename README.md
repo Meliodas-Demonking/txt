@@ -1,2 +1,2 @@
 Link to site :
-[![click here](https://img.shields.io/badge/Click%20here-brightgreen)]([https://your-link-here.com](https://Meliodas-Demonking.github.io/txt/))
+[![Click Here](https://img.shields.io/badge/Click-Here-brightgreen)]([https://github.com](https://Meliodas-Demonking.github.io/txt/))
